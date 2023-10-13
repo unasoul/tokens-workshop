@@ -1,0 +1,11 @@
+{
+  "colors": {
+    "green": {
+      "400": {
+        "value": "#1ED760",
+        "type": "color",
+        "description": "This is the core green token "
+      }
+    }
+  }
+}

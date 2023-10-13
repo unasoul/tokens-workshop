@@ -1,0 +1,8 @@
+{
+  "brand": {
+    "primary-color": {
+      "value": "{colors.green.400}",
+      "type": "color"
+    }
+  }
+}

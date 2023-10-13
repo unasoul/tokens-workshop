@@ -1,0 +1,11 @@
+{
+  "button": {
+    "primary": {
+      "bg": {
+        "value": "{brand.primary-color}",
+        "type": "color",
+        "description": "This is our button primary background component token"
+      }
+    }
+  }
+}
