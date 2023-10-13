@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "26061bf4ba54a055c267fdb2141acbb5ea4783e9",
+    "name": "runzero-light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "light": "source"
+    }
+  },
+  {
+    "id": "9c7ef1636166fa3bcb22536d19bbc721d869748a",
+    "name": "brand-dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "component tokens": "source",
+      "dark": "source"
+    }
+  }
+]

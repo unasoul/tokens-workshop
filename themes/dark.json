@@ -1,0 +1,8 @@
+{
+  "colors": {
+    "dark": {
+      "value": "{colors.green.400}",
+      "type": "color"
+    }
+  }
+}

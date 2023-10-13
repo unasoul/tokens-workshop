@@ -1,0 +1,8 @@
+{
+  "colors": {
+    "light": {
+      "value": "{brand.primary-color}",
+      "type": "color"
+    }
+  }
+}

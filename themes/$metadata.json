@@ -2,6 +2,8 @@
   "tokenSetOrder": [
     "global",
     "semantic",
-    "component tokens"
+    "component tokens",
+    "light",
+    "dark"
   ]
 }
